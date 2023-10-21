@@ -1,0 +1,3 @@
+#!/home/arpita/Approximate-Computing-for-Neural-Networks/aprxcomp/bin/python3
+from numba.pycc import main
+main()
